@@ -1,0 +1,9 @@
+﻿.env*
+.vercel/
+private-data/
+node_modules/
+assets/uploads/
+*.zip
+*.log
+*.test.cjs
+README.md

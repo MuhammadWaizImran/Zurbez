@@ -1,0 +1,15 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "redirects": [
+    { "source": "/server.js", "destination": "/not-found", "permanent": false },
+    { "source": "/seed-products.json", "destination": "/not-found", "permanent": false },
+    { "source": "/package.json", "destination": "/not-found", "permanent": false },
+    { "source": "/package-lock.json", "destination": "/not-found", "permanent": false }
+  ],
+  "rewrites": [
+    { "source": "/admin", "destination": "/admin.html" },
+    { "source": "/admin/", "destination": "/admin.html" },
+    { "source": "/api/:path*", "destination": "/api/index" }
+  ]
+}

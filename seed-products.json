@@ -1,0 +1,558 @@
+[
+  {
+    "id": "ds1",
+    "name": "Against All Odds Drop Shoulder Tee",
+    "image": "assets/zurbez/artwork-1.png",
+    "alternate": "assets/zurbez/artwork-1.png",
+    "price": 1499,
+    "old": 1899,
+    "category": "drop-shoulder",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Black",
+    "introVideo": "assets/video/product-intros/against-all-odds.mp4"
+  },
+  {
+    "id": "ds2",
+    "name": "Fearless Fits Drop Shoulder Tee",
+    "image": "assets/zurbez/artwork-2.png",
+    "alternate": "assets/zurbez/artwork-2.png",
+    "price": 1499,
+    "old": 1899,
+    "category": "drop-shoulder",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Brown"
+  },
+  {
+    "id": "ds3",
+    "name": "High Frequency Drop Shoulder Tee",
+    "image": "assets/zurbez/artwork-3.png",
+    "alternate": "assets/zurbez/artwork-3.png",
+    "price": 1499,
+    "old": 1899,
+    "category": "drop-shoulder",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Burgundy",
+    "introVideo": "assets/video/product-intros/awesome.mp4"
+  },
+  {
+    "id": "ds4",
+    "name": "Odds After Dark Drop Shoulder Tee",
+    "image": "assets/zurbez/artwork-4.png",
+    "alternate": "assets/zurbez/artwork-4.png",
+    "price": 1499,
+    "old": 1899,
+    "category": "drop-shoulder",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Black"
+  },
+  {
+    "id": "ds5",
+    "name": "Never Be Ordinary Drop Shoulder Tee",
+    "image": "assets/zurbez/artwork-5.png",
+    "alternate": "assets/zurbez/artwork-5.png",
+    "price": 1499,
+    "old": 1899,
+    "category": "drop-shoulder",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Black"
+  },
+  {
+    "id": "ds6",
+    "name": "Own The Moment Drop Shoulder Tee",
+    "image": "assets/zurbez/artwork-6.png",
+    "alternate": "assets/zurbez/artwork-6.png",
+    "price": 1499,
+    "old": 1899,
+    "category": "drop-shoulder",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "White"
+  },
+  {
+    "id": "gt1",
+    "name": "Chérie Bow Oversized T-Shirt",
+    "image": "assets/products/girls/girls-1.webp",
+    "alternate": "assets/products/girls/girls-1.webp",
+    "price": 1499,
+    "old": 2000,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Burgundy"
+  },
+  {
+    "id": "gt2",
+    "name": "Urban Girl Anime Oversized T-Shirt",
+    "image": "assets/products/girls/girls-2.webp",
+    "alternate": "assets/products/girls/girls-2.webp",
+    "price": 1499,
+    "old": 2000,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Cream"
+  },
+  {
+    "id": "gt3",
+    "name": "Self Love Floral Oversized T-Shirt",
+    "image": "assets/products/girls/girls-3.webp",
+    "alternate": "assets/products/girls/girls-3.webp",
+    "price": 1499,
+    "old": 2000,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Black",
+    "introVideo": "assets/video/product-intros/self-love.mp4"
+  },
+  {
+    "id": "gt4",
+    "name": "Positivity Forever Oversized T-Shirt",
+    "image": "assets/products/girls/girls-4.webp",
+    "alternate": "assets/products/girls/girls-4.webp",
+    "price": 1499,
+    "old": 1899,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "White",
+    "introVideo": "assets/video/product-intros/positivity-forever.mp4"
+  },
+  {
+    "id": "gt5",
+    "name": "Never Be My Rival Graphic T-Shirt",
+    "image": "assets/products/girls/girls-5.webp",
+    "alternate": "assets/products/girls/girls-5.webp",
+    "price": 1499,
+    "old": 1899,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Black",
+    "introVideo": "assets/video/product-intros/never-be-my-rival.mp4"
+  },
+  {
+    "id": "gt6",
+    "name": "Pink Panther Oversized T-Shirt",
+    "image": "assets/products/girls/girls-6.webp",
+    "alternate": "assets/products/girls/girls-6.webp",
+    "price": 1499,
+    "old": 1899,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Pink"
+  },
+  {
+    "id": "gt7",
+    "name": "Hey Look At Me Oversized T-Shirt",
+    "image": "assets/products/girls/girls-7.webp",
+    "alternate": "assets/products/girls/girls-7.webp",
+    "price": 1499,
+    "old": 1899,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Black"
+  },
+  {
+    "id": "gt8",
+    "name": "Girl Power Peach Graphic T-Shirt",
+    "image": "assets/products/girls/girls-8.webp",
+    "alternate": "assets/products/girls/girls-8.webp",
+    "price": 1499,
+    "old": 1899,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Peach"
+  },
+  {
+    "id": "gt9",
+    "name": "Power Girl Chocolate T-Shirt",
+    "image": "assets/products/girls/girls-9.webp",
+    "alternate": "assets/products/girls/girls-9.webp",
+    "price": 1499,
+    "old": 1899,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Chocolate"
+  },
+  {
+    "id": "gt10",
+    "name": "Born To Fly Oversized T-Shirt",
+    "image": "assets/products/girls/girls-10.webp",
+    "alternate": "assets/products/girls/girls-10.webp",
+    "price": 1499,
+    "old": 1899,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "White"
+  },
+  {
+    "id": "gt11",
+    "name": "Navy Graphic Oversized T-Shirt",
+    "image": "assets/products/girls/girls-11.webp",
+    "alternate": "assets/products/girls/girls-11.webp",
+    "price": 1499,
+    "old": 1899,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Navy"
+  },
+  {
+    "id": "gt12",
+    "name": "Girls Character Oversized T-Shirt",
+    "image": "assets/products/girls/girls-12.webp",
+    "alternate": "assets/products/girls/girls-12.webp",
+    "price": 1499,
+    "old": 1899,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Pink"
+  },
+  {
+    "id": "gt13",
+    "name": "Gen Z Oversized Graphic T-Shirt",
+    "image": "assets/products/girls/girls-13.webp",
+    "alternate": "assets/products/girls/girls-13.webp",
+    "price": 1499,
+    "old": 1899,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Black"
+  },
+  {
+    "id": "tm1",
+    "name": "Quencher 40oz — Baby Pink",
+    "image": "assets/products/tumblers/tumbler-1.webp",
+    "alternate": "assets/products/tumblers/tumbler-6.webp",
+    "price": 2999,
+    "old": 3999,
+    "category": "tumblers",
+    "sizes": [
+      "40oz"
+    ],
+    "color": "Baby Pink"
+  },
+  {
+    "id": "tm2",
+    "name": "Quencher 40oz — Cream",
+    "image": "assets/products/tumblers/tumbler-2.webp",
+    "alternate": "assets/products/tumblers/tumbler-7.webp",
+    "price": 2999,
+    "old": 3999,
+    "category": "tumblers",
+    "sizes": [
+      "40oz"
+    ],
+    "color": "Cream"
+  },
+  {
+    "id": "tm3",
+    "name": "Quencher 40oz — Lavender",
+    "image": "assets/products/tumblers/tumbler-3.webp",
+    "alternate": "assets/products/tumblers/tumbler-9.webp",
+    "price": 2999,
+    "old": 3999,
+    "category": "tumblers",
+    "sizes": [
+      "40oz"
+    ],
+    "color": "Lavender"
+  },
+  {
+    "id": "tm4",
+    "name": "Quencher 40oz — Pink",
+    "image": "assets/products/tumblers/tumbler-4.webp",
+    "alternate": "assets/products/tumblers/tumbler-8.webp",
+    "price": 2999,
+    "old": 3999,
+    "category": "tumblers",
+    "sizes": [
+      "40oz"
+    ],
+    "color": "Pink"
+  },
+  {
+    "id": "tm5",
+    "name": "Quencher 40oz — Charcoal",
+    "image": "assets/products/tumblers/tumbler-5.webp",
+    "alternate": "assets/products/tumblers/tumbler-10.webp",
+    "price": 2999,
+    "old": 3999,
+    "category": "tumblers",
+    "sizes": [
+      "40oz"
+    ],
+    "color": "Charcoal"
+  },
+  {
+    "id": "tr1",
+    "name": "Relaxed Tailored Trousers",
+    "image": "assets/products/placeholders/trousers.png",
+    "alternate": "assets/products/placeholders/trousers.png",
+    "price": 2790,
+    "old": 3290,
+    "category": "trousers",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Light Taupe"
+  },
+  {
+    "id": "hd1",
+    "name": "Heavyweight Oversized Hoodie",
+    "image": "assets/products/placeholders/hoodie.png",
+    "alternate": "assets/products/placeholders/hoodie.png",
+    "price": 3490,
+    "old": 3990,
+    "category": "hoodies",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Deep Espresso"
+  },
+  {
+    "id": "bp1",
+    "name": "Washed Wide-Leg Baggy Pants",
+    "image": "assets/products/placeholders/baggy-pants.png",
+    "alternate": "assets/products/placeholders/baggy-pants.png",
+    "price": 2990,
+    "old": 3490,
+    "category": "baggy-pants",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Warm Charcoal"
+  },
+  {
+    "id": "sw1",
+    "name": "Essential Oversized Sweatshirt",
+    "image": "assets/products/placeholders/sweatshirt.png",
+    "alternate": "assets/products/placeholders/sweatshirt.png",
+    "price": 2890,
+    "old": 3390,
+    "category": "sweatshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Light Taupe"
+  },
+  {
+    "id": "po1",
+    "name": "Relaxed Piqué Polo T-Shirt",
+    "image": "assets/products/placeholders/polo.png",
+    "alternate": "assets/products/placeholders/polo.png",
+    "price": 2490,
+    "old": 2990,
+    "category": "polo-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Soft Ivory"
+  },
+  {
+    "id": "ds7",
+    "name": "You Can Do It Drop Shoulder Tee",
+    "image": "assets/products/video-stills/you-can-do-it.jpg",
+    "alternate": "assets/products/video-stills/you-can-do-it.jpg",
+    "price": 1499,
+    "old": 1899,
+    "category": "drop-shoulder",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Brown",
+    "introVideo": "assets/video/product-intros/you-can-do-it.mp4"
+  },
+  {
+    "id": "ds8",
+    "name": "Master Planner Drop Shoulder Tee",
+    "image": "assets/products/video-stills/master-planner.jpg",
+    "alternate": "assets/products/video-stills/master-planner.jpg",
+    "price": 1499,
+    "old": 1899,
+    "category": "drop-shoulder",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Cream",
+    "introVideo": "assets/video/product-intros/master-planner.mp4"
+  },
+  {
+    "id": "gt14",
+    "name": "Butterfly Spirit Oversized T-Shirt",
+    "image": "assets/products/video-stills/butterfly-spirit.jpg",
+    "alternate": "assets/products/video-stills/butterfly-spirit.jpg",
+    "price": 1499,
+    "old": 1899,
+    "category": "girls-tshirts",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Cream",
+    "introVideo": "assets/video/product-intros/butterfly-spirit.mp4"
+  },
+  {
+    "id": "ds9",
+    "name": "Keep Moving Forest Drop Shoulder Tee",
+    "image": "assets/products/video-stills/keep-moving.jpg",
+    "alternate": "assets/products/video-stills/keep-moving.jpg",
+    "price": 1499,
+    "old": 1899,
+    "category": "drop-shoulder",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Forest Green",
+    "introVideo": "assets/video/product-intros/keep-moving.mp4"
+  },
+  {
+    "id": "ds10",
+    "name": "Never Give Up Navy Drop Shoulder Tee",
+    "image": "assets/products/video-stills/never-give-up.jpg",
+    "alternate": "assets/products/video-stills/never-give-up.jpg",
+    "price": 1499,
+    "old": 1899,
+    "category": "drop-shoulder",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "Navy",
+    "introVideo": "assets/video/product-intros/never-give-up.mp4"
+  },
+  {
+    "id": "ds11",
+    "name": "Porsche 911 White Drop Shoulder Tee",
+    "image": "assets/products/video-stills/porsche-911.jpg",
+    "alternate": "assets/products/video-stills/porsche-911.jpg",
+    "price": 1499,
+    "old": 1899,
+    "category": "drop-shoulder",
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "color": "White",
+    "introVideo": "assets/video/product-intros/porsche-911.mp4"
+  }
+]

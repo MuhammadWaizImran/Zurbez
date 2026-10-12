@@ -1,0 +1,17 @@
+.zurbez-intro{display:none;position:fixed;inset:0;z-index:10000;background:radial-gradient(circle at 50% 44%,#382d25 0%,#2a211c 33%,#191715 76%);color:#f5f3ed;height:100svh;overflow:hidden;contain:layout paint}
+.zurbez-intro::before,.zurbez-intro::after{content:"";position:absolute;left:clamp(22px,4vw,68px);right:clamp(22px,4vw,68px);height:1px;background:linear-gradient(90deg,transparent,#b89e8266,transparent);pointer-events:none}
+.zurbez-intro::before{top:clamp(28px,5vh,58px)}.zurbez-intro::after{bottom:clamp(28px,5vh,58px)}
+.intro-pending .zurbez-intro{display:block}
+html.intro-pending,html.intro-pending body{overflow:hidden;overscroll-behavior:none}
+.intro-stage{position:absolute;top:50%;left:50%;display:flex;align-items:center;justify-content:center;transform:translate(-50%,-50%);white-space:nowrap}
+.intro-letter-mask{overflow:hidden;display:flex;padding:.08em 0}
+.intro-word{display:block;font-family:Arial,Helvetica,sans-serif;font-size:clamp(42px,7.7vw,120px);font-weight:900;line-height:.85;letter-spacing:-.07em;color:#f5f3ed;text-shadow:0 8px 32px #0005;transform:translateY(120%);opacity:0}
+.intro-artwork{position:relative;flex:none;width:0;height:clamp(160px,28vw,380px)}
+.intro-artwork img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;opacity:0;will-change:transform,opacity;filter:sepia(.2) saturate(.8) drop-shadow(0 14px 30px #0007)}
+.intro-counter{position:absolute;bottom:clamp(28px,3.4vh,45px);left:50%;transform:translateX(-50%);font-size:16px;line-height:1;font-weight:700;letter-spacing:.12em;color:#b89e82;font-variant-numeric:tabular-nums}
+.intro-skip{position:absolute;right:25px;bottom:25px;background:none;border:1px solid #b89e8266;border-radius:4px;color:#ede5d5;font-size:10px;text-transform:uppercase;letter-spacing:.15em;padding:10px 13px;opacity:0;transition:opacity .2s,background .2s}
+.intro-skip:hover{background:#b89e8225}
+.intro-skip:focus-visible,.zurbez-intro:hover .intro-skip{opacity:1}
+.brand.zurbez-brand b{font-size:28px;letter-spacing:-1.6px;font-weight:900}.brand.zurbez-brand small{display:none}
+@media(max-width:600px){.intro-word{font-size:clamp(32px,9vw,54px)}.intro-artwork{height:180px}.intro-counter{font-size:13px}.intro-skip{right:12px;bottom:15px}.brand.zurbez-brand b{font-size:24px;letter-spacing:-1.4px}}
+@media(prefers-reduced-motion:reduce){.intro-word{transform:none;opacity:1}.intro-artwork img{will-change:auto}}
