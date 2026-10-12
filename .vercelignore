@@ -1,4 +1,4 @@
-﻿.env*
+.env*
 .vercel/
 private-data/
 node_modules/

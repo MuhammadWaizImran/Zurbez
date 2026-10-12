@@ -1,4 +1,4 @@
-﻿name: Verify ZURBEZ
+name: Verify ZURBEZ
 
 on:
   push:

@@ -1,4 +1,4 @@
-﻿# ZURBEZ
+# ZURBEZ
 
 ZURBEZ is a Node.js storefront and admin portal. It includes eight product collections, product videos, a one-time intro, cart and wishlist, cash-on-delivery checkout, stock management, reviews, and website settings.
 
